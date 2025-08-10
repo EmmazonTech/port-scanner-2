@@ -1,4 +1,4 @@
-# @EmmazonTech/port-scanner-2
+# EmmazonTech/port-scanner-2
 
 A simple and powerful Python script for scanning open ports on any target system.
 
